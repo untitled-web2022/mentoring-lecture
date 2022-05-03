@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "ac885e6ecf2c90ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7de62f169aaf334",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Team 1/개요 - 웹에 대해서.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64130e3288237bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "484a4207e113a7fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ac69ae994a82fae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b26087cb3b4ed42a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f87ddb791a407c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d106bc6e72d08ca3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a91ca960cc2bd87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Team 1/개요 - 웹에 대해서.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f7de62f169aaf334",
+  "lastOpenFiles": [
+    "Team 1/개요 - 웹에 대해서.md"
+  ]
+}
