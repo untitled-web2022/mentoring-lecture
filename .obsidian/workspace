@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Team 1/개요 - 웹에 대해서.md",
+            "file": "Team 1/1주차.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Team 1/개요 - 웹에 대해서.md",
+                "file": "Team 1/1주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,16 +79,24 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "8d188a9d56f05f7a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "f7de62f169aaf334",
   "lastOpenFiles": [
-    "Team 1/개요 - 웹에 대해서.md"
+    "Team 1/1주차.md"
   ]
 }
