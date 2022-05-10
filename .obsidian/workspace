@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f7de62f169aaf334",
+        "id": "e333b26d11f18ee2",
         "type": "leaf",
         "state": {
-          "type": "diff-view",
+          "type": "markdown",
           "state": {
-            "file": "Pasted image 20220503194057.png",
-            "staged": false
+            "file": "Team 1/w1/2주차.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Team 1/w1/2주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,10 +95,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f7de62f169aaf334",
+  "active": "e333b26d11f18ee2",
   "lastOpenFiles": [
-    "Team 2/1주차.md",
+    "Team 1/w1/2주차.md",
+    "Team 1/w1/2주차.pdf",
     "Team 1/1주차.md",
+    "Team 2/1주차.md",
     "Assets/Pasted image 20220503170949.png"
   ]
 }

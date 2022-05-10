@@ -1,5 +1,11 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
